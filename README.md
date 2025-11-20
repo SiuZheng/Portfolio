@@ -1,7 +1,8 @@
 # Hi there, I'm SiuZheng 👋
 
 Welcome to my portfolio! I'm a developer passionate about AI, Android development, and Computer Vision.
-email: siuzheng18@gmail.com
+
+Email: siuzheng18@gmail.com
 ## 🛠️ Skills
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
