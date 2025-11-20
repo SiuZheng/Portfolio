@@ -27,7 +27,7 @@ Email: siuzheng18@gmail.com
 > **Car plate detection and recognition system using YOLO11n (finetuned) and EasyOCR.**
 
 *   **Tech:** Python, YOLO11n, EasyOCR, Gradio, Data preprocessing
-*   **Status:** Deployed on Gradio for live testing.
+*   **Key Features:** Detect car plate under day or night.
 
 ---
 
