@@ -2,7 +2,7 @@
 
 ## AI Storybook Generator
 Generate storybook images using LLM, allowing story and character creation to ensure consistency.  
-**Tech:** Python, LLM, Image Generation, Langchain
+**Tech:** Python, LLM, Image Generation, Langchain, Streamlit
 
 [GitHub Repo](https://github.com/SiuZheng/AI-Storybook-Generator)
 
