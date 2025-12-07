@@ -15,6 +15,14 @@ Email: siuzheng18@gmail.com
 
 ## 🚀 Projects
 
+### 🫁 [Lung Cancer Detection](https://github.com/SiuZheng/Lung-Cancer-Detection)
+> **Deep Learning approach for lung cancer detection from CT scans using a custom Hybrid Convolutional-Transformer-Like Feature Network (HCTLFN) and AGOC preprocessing.**
+
+*   **Tech:** Python, PyTorch, EfficientNetV2, BiGRU, Feature Engineering (AGOC)
+*   **Key Features:** Custom AGOC Preprocessing, Hybrid Model (HCTLFN), ~91% Accuracy compared to baseline.
+
+---
+
 ### 📚 [AI Storybook Generator](https://github.com/SiuZheng/AI-Storybook-Generator)
 > **Generate storybook images using LLM, allowing story and character creation to ensure consistency.**
 
