@@ -15,7 +15,7 @@ Email: siuzheng18@gmail.com
 
 ## 🚀 Projects
 
-### 🫁 [Lung Cancer Detection](https://github.com/SiuZheng/Lung-Cancer-Detection)
+### ❤️ [Lung Cancer Detection](https://github.com/SiuZheng/CT-Lung-Cancer-Detection)
 > **Deep Learning approach for lung cancer detection from CT scans using a custom Hybrid Convolutional-Transformer-Like Feature Network (HCTLFN) and AGOC preprocessing.**
 
 *   **Tech:** Python, PyTorch, EfficientNetV2, BiGRU, Feature Engineering (AGOC)
